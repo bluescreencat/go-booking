@@ -1,0 +1,6 @@
+ERROR_MESSAGE_INVALID_PARAMETERS: Invalid Parameters.
+ERROR_MESSAGE_INVALID_USERNAME_OR_PASSWORD: Invalid username or password.
+ERROR_MESSAGE_INTERNAL_SERVER_ERROR: Something went wrong. Please contact the technical support.
+ERROR_MESSAGE_USERNAME_ALREADY_EXISTS: Username already exists.
+ERROR_MESSAGE_UNAUTHORIZED: Unauthorized.
+ERROR_MESSAGE_TOKEN_EXPIRED: The token has expired.
